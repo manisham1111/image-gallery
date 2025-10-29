@@ -1,2 +1,2 @@
-# image-gallery
-responsive image gallery using html,css and javascript 
+#music player
+Music player using html,css and javascript 
